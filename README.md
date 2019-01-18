@@ -1,8 +1,8 @@
 ###  Background
 
-I am a PhD Student studying under the supervision of (Dr. Michael Mangan)[https://michaelmangan.github.io/] as part of the (ManganLab Biorobotics Research Group)[https://manganlab.github.io/], in collaboration with the (Brains On Board project)[http://brainsonboard.co.uk/].
+I am a PhD Student studying under the supervision of [Dr. Michael Mangan](https://michaelmangan.github.io/) as part of the [ManganLab Biorobotics Research Group](https://manganlab.github.io/), in collaboration with the [Brains On Board project](http://brainsonboard.co.uk/).
 
-I am currently studying the information content that can be retrieved by insect eyes and developing technologies to do so, my project can be found (here)[https://github.com/ManganLab/insect-eye-simulator].
+I am currently studying the information content that can be retrieved by insect eyes and developing technologies to do so, my project can be found [here](https://github.com/ManganLab/insect-eye-simulator).
 
 ###  Biography
 
