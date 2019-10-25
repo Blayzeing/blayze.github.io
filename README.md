@@ -8,7 +8,7 @@ I am currently studying the information content that can be retrieved by insect 
 
 In 2018 I received my bachelor's degree in Artificial Intelligence and Computer Science (with a year in industry) from the University of Sheffield, and subsequently continued on to my current position as a PhD candidate.
 
-In the past I have worked in the data analysis and defence sectors, predominantly working with and creating machine learning and AI systems. I am currently employed on a low-hours basis as a consultant to Lockheed Martin UK.
+In the past I have worked in the data analysis and defence sectors, predominantly working with and creating machine learning and AI systems.
 
 ###  Links
 
